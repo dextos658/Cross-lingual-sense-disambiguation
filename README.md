@@ -18,7 +18,7 @@ Our goal is to prepare a solution that will be able to determine if the word X i
 
 ## ✅ Submission 1
 
-We started by defining our group and choosing our area of work. We then checked the scope of work, looked for articles containing similar work and came up with an initial idea for the project. Find out more in the report.
+We started by defining our group and choosing our area of work. We then checked the scope of work, looked for articles containing similar work and came up with an initial idea for the project. Find out more [in the report](https://github.com/dextos658/Cross-lingual-sense-disambiguation/blob/main/submission-1/Report-1.pdf).
 
 ## 🔜 Submission 2
 
