@@ -1,8 +1,9 @@
-﻿# Cross-lingual sense disambiguation
+# Cross-lingual sense disambiguation
 
 The repository is used for the development of the project **Cross-lingual sense disambiguation** in the course **Natural Language Processing** in the academic year 2021/2022 at the Faculty of Computer Science and Informatics, University of Ljubljana.
 
 Authors: Zala Erič, Miha Debenjak, Denis Derenda Cizel
+
 Advisor: Slavko Žitnik
 
 # About the project
@@ -18,11 +19,12 @@ Our goal is to prepare a solution that will be able to determine if the word X i
 
 ## ✅ Submission 1
 
-We started by defining our group and choosing our area of work. We then checked the scope of work, looked for articles containing similar work and came up with an initial idea for the project. Find out more [in the report](https://github.com/dextos658/Cross-lingual-sense-disambiguation/blob/main/submission-1/Report-1.pdf).
+We started by defining our group and choosing our area of work. We then checked the scope of work, looked for articles containing similar work and came up with an initial idea for the project. Find out more in the report.
 
-## 🔜 Submission 2
+## ✅ Submission 2
 
-/
+From the CVJT synonym dictionary (https://viri.cjvt.si/sopomenke/eng/) , which we obtained in xml format from the clarin.si website, we obtained a list of words  should have multiple meanings. To start with, we have chosen 2000 different words that we expect to have multiple meanings. Then, for about 500 words, we extracted 10 uses in sentences for each of them. This data is extracted through an AP interface provided by the sketchengine.eu website, which hosts SLOVENIAN WEB (SLWAC 2.1) corpus, which holds 754 255 589 different words and 50 847 258 sentences. Thus, we have compiled a collection of words and their usages, which we will use to classify the meanings. We also examined different implementations of the BERT algorithm and which methods we would use to fine-tune it. We estimate that we will manually review 30% of the word usage comparisons.
+
 ## 🔜 Submission 3
 
 /
