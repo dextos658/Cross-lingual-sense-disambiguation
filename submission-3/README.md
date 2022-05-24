@@ -14,7 +14,7 @@ The repository consists of corpus files and program code files.
 
 
 
-***code*** folder contains the following files:
+The other files are:
 
 |name|description  |
 |--|--|
