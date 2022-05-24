@@ -1,3 +1,4 @@
+
 # Cross-lingual sense disambiguation
 
 The repository is used for the development of the project **Cross-lingual sense disambiguation** in the course **Natural Language Processing** in the academic year 2021/2022 at the Faculty of Computer Science and Informatics, University of Ljubljana.
@@ -25,6 +26,8 @@ We started by defining our group and choosing our area of work. We then checked 
 
 From the CVJT synonym dictionary (https://viri.cjvt.si/sopomenke/eng/) , which we obtained in xml format from the clarin.si website, we obtained a list of words  should have multiple meanings. To start with, we have chosen 2000 different words that we expect to have multiple meanings. Then, for about 500 words, we extracted 10 uses in sentences for each of them. This data is extracted through an AP interface provided by the sketchengine.eu website, which hosts SLOVENIAN WEB (SLWAC 2.1) corpus, which holds 754 255 589 different words and 50 847 258 sentences. Thus, we have compiled a collection of words and their usages, which we will use to classify the meanings. We also examined different implementations of the BERT algorithm and which methods we would use to fine-tune it. We estimate that we will manually review 30% of the word usage comparisons.
 
-## 🔜 Submission 3
+## ✅ Submission 3
 
-/
+The 3rd submission represents final and working version of an algorithm for recognising the context of word usage in different sentences. We have compiled a collection of 2000 sentence pairs for 250 different multi-sense words. Of these, 250 sentence pairs were manually scanned and their meaning was evaluated.
+
+We then performed sentence classification using different approaches and different BERT models. More details on our performance and results can be found in the report.
